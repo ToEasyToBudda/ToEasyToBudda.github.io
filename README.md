@@ -1,2 +1,2 @@
-# Возможности репозитория на GitHub
+# ToEasyToBudda.io
 Мой сайт на GitHub
